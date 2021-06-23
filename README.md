@@ -36,7 +36,8 @@ Thomson Reuters and will not be made available in this repo. You need to consult
 You may consult ```main.py``` for the various routines to generate the results. We have included a dummy ```market_data.xlsx``` under
    ```./data``` for reference of the format of market data file expected. The repo also expects a ```full_data``` object (interface defined under ```source/all_classes.py```)
    containing the relevant article and sentiment information.
-   
+
+*Note: similar to the Reuters articles, we are also not releasing the market data which are proprietary. Data of comparable quality may be, for example, obtained from Yahoo Finance and you are encouraged to review their Terms of Use.* 
 
 
 ## Citation
